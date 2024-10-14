@@ -1,0 +1,4 @@
+Flask==2.0.2
+gunicorn==20.1.0
+MarkupSafe==2.1.5  # or any compatible version
+pdfminer.six==20201018  
